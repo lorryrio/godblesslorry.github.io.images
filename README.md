@@ -1,3 +1,1 @@
-# godblesslorry.github.io.images
-
-我的博客图床
+# 我的博客镜像
